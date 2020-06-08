@@ -1,0 +1,9 @@
+set sample1 4 10 20 30 40
+set sample2 5 10 20 30 40 50
+show
+union sample2 sample1 sample3
+show sample3 
+is_subset sample2 sample1 
+is_subset sample1 sample2
+difference sample3 sample1 sample4
+show sample4 

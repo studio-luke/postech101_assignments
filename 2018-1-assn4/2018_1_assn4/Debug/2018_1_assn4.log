@@ -1,0 +1,18 @@
+﻿  assn4.c
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(18): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(53): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(60): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(78): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn4\2018_1_assn4\assn4.c(85): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  2018_1_assn4.vcxproj -> C:\Users\김승일\documents\visual studio 2015\Projects\2018_1_assn4\Debug\2018_1_assn4.exe
+  2018_1_assn4.vcxproj -> C:\Users\김승일\documents\visual studio 2015\Projects\2018_1_assn4\Debug\2018_1_assn4.pdb (Full PDB)

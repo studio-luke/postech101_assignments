@@ -1,0 +1,15 @@
+﻿  assn3.c
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(38,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(70,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(90,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(186,54): warning C4013: 'count_cell_walls' undefined; assuming extern returning int
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(164,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(238,21): warning C4101: 'num_uncl': unreferenced local variable
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(277,9): warning C4101: 'j': unreferenced local variable
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(277,6): warning C4101: 'i': unreferenced local variable
+C:\Users\goalo\source\repos\19_2_101_assn2\19_2_101_assn2\assn3.c(326,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  19_2_101_assn2.vcxproj -> C:\Users\goalo\source\repos\19_2_101_assn2\Debug\19_2_101_assn2.exe

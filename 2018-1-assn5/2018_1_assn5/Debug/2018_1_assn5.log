@@ -1,0 +1,5 @@
+﻿  assn5.c
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn5\2018_1_assn5\assn5.c(5): warning C4013: 'add' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_1_assn5\2018_1_assn5\assn5.c(13): warning C4716: 'add': must return a value
+  2018_1_assn5.vcxproj -> c:\users\김승일\documents\visual studio 2015\Projects\2018_1_assn5\Debug\2018_1_assn5.exe
+  2018_1_assn5.vcxproj -> c:\users\김승일\documents\visual studio 2015\Projects\2018_1_assn5\Debug\2018_1_assn5.pdb (Full PDB)

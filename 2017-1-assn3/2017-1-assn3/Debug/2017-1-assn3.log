@@ -1,0 +1,5 @@
+﻿  map.c
+C:\Users\goalo\source\repos\2017-1-assn3\2017-1-assn3\map.c(35,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\goalo\source\repos\2017-1-assn3\2017-1-assn3\map.c(47,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  2017-1-assn3.vcxproj -> C:\Users\goalo\source\repos\2017-1-assn3\Debug\2017-1-assn3.exe

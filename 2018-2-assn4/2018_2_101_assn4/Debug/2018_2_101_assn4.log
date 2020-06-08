@@ -1,0 +1,70 @@
+﻿  yebin.c
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(30): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(70): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(91): warning C4013: 'realloc' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(101): warning C4133: '=': incompatible types - from 'char *' to 'int *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(81): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(82): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(88): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(127): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(173): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(161): warning C4101: 'search': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(158): warning C4101: 'a': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(157): warning C4101: 'range': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(203): warning C4101: 'k': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(305): warning C4133: '=': incompatible types - from 'char *' to 'int *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(285): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(286): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(292): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(299): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(302): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(307): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(308): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(331): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(346): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(342): warning C4101: 'k': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(381): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(407): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(448): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(433): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(440): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn4\2018_2_101_assn4\yebin.c(442): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  2018_2_101_assn4.vcxproj -> C:\Users\김승일\documents\visual studio 2015\Projects\2018_2_101_assn4\Debug\2018_2_101_assn4.exe
+  2018_2_101_assn4.vcxproj -> C:\Users\김승일\documents\visual studio 2015\Projects\2018_2_101_assn4\Debug\2018_2_101_assn4.pdb (Full PDB)

@@ -1,0 +1,16 @@
+﻿  main.c
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(126): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(127): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(102): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(308): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(305): warning C4101: 'debug': unreferenced local variable
+c:\users\김승일\documents\visual studio 2015\projects\2018_2_101_assn2\2018_2_101_assn2\main.c(76): warning C4716: 'print_tutorial': must return a value
+  2018_2_101_assn2.vcxproj -> C:\Users\김승일\Documents\Visual Studio 2015\Projects\2018_2_101_assn2\Debug\2018_2_101_assn2.exe

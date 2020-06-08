@@ -1,0 +1,13 @@
+﻿  assn5.c
+  functions.c
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\assn5.c(13,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  process.c
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\functions.c(52,6): warning C4101: 'i': unreferenced local variable
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\process.c(23,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\process.c(133,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\process.c(157): warning C4716: 'playerTurn': must return a value
+C:\Users\goalo\source\repos\2017-1-assn5\2017-1-assn5\functions.c(47): warning C4716: 'setDeck': must return a value
+  2017-1-assn5.vcxproj -> C:\Users\goalo\source\repos\2017-1-assn5\Debug\2017-1-assn5.exe

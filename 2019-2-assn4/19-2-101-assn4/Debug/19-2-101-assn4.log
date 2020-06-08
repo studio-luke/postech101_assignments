@@ -1,0 +1,9 @@
+﻿  assn4.c
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(155,52): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(156,52): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(230,6): warning C4101: 'a': unreferenced local variable
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(229,6): warning C4101: 'i': unreferenced local variable
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(130): warning C4716: 'SSD': must return a value
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(157): warning C4716: 'NCC': must return a value
+C:\Users\goalo\source\repos\19-2-101-assn4\19-2-101-assn4\assn4.c(224): warning C4716: 'align': must return a value
+  19-2-101-assn4.vcxproj -> C:\Users\goalo\source\repos\19-2-101-assn4\Debug\19-2-101-assn4.exe
