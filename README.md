@@ -8,7 +8,7 @@ I took CSED101 class on 2017 spring, and after that I've been still solving the 
 to help my college friends, and sometimes, just for curiosity.<br>
 
 Every C code here is written by myself.<br>
-There are 5 assignments per semester, and some of them are missing, which I didn't write the code.
+There are 5 assignments per semester, and some of them are missing, which I didn't write the code.<br><br>
 
 - 2017-1-assn1: ASCII, mathematical exercise
 - 2017-1-assn2: Number Baseball Game
