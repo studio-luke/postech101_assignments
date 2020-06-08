@@ -49,8 +49,10 @@ int main() {
 		case 8: do_normalize(images, num_images, DENORMALIZE); break;
 		case 9: convolution(&images, filters, &num_images, num_filters); break;
 		case 10: 
-			printf("Thank you for choosing Luke's Image Processor! :D\n");
 			free_cubics(images, filters, num_images, num_filters);
+			printf("Thank you for choosing Luke's Image Processor! :D\n");
+			printf("Press Enter to quit...");
+			FFLUSH;
 			return 0;
 		default:
 			printf("\n** FATAL ERROR: Unexpected Input\n");
@@ -343,7 +345,7 @@ void convolution(CUBIC*** images, CUBIC** filters, int* num_img, int num_ftr) {
 	newimage->H = (*images)[idx_img]->H - filters[idx_ftr]->H + 1;
 	newimage->W = (*images)[idx_img]->W - filters[idx_ftr]->W + 1;
 	
-	sprintf(newname, "%s_%s.ppm", (*images)[idx_img]->name, filters[idx_ftr]->name);
+	sprintf(newname, "%s_%s", (*images)[idx_img]->name, filters[idx_ftr]->name);
 	strcpy(newimage->name, newname);
 
 	newimage->data = (float***)malloc(newimage->C * sizeof(float**));

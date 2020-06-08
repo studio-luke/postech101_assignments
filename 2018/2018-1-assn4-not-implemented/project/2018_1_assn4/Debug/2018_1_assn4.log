@@ -1,0 +1,21 @@
+﻿  assn4.c
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(19,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(47,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(23,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(35,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(51,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(58,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(65,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(83,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\assn4.c(90,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  use.c
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\2018_1_assn4\use.c(7): warning C4716: 'cmd_use': must return a value
+  2018_1_assn4.vcxproj -> C:\Users\goalo\OneDrive - postech.ac.kr\CodeWS\postech101_assignments\2018\2018-1-assn4\Debug\2018_1_assn4.exe

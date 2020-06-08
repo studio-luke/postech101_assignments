@@ -1,4 +1,0 @@
-﻿  assn2_2.c
-c:\users\김승일\source\repos\19_2_101_assn2\19_2_101_assn2\assn2_2.c(92): warning C4013: 'exit' undefined; assuming extern returning int
-c:\users\김승일\source\repos\19_2_101_assn2\19_2_101_assn2\assn2_2.c(95): warning C4715: 'encode': not all control paths return a value
-  19_2_101_assn2.vcxproj -> C:\Users\김승일\source\repos\19_2_101_assn2\Debug\19_2_101_assn2.exe
