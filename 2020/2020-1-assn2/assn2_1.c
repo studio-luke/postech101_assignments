@@ -8,7 +8,7 @@
 #include <string.h>
 
 #define MAX_EMAIL_LEN		30
-#define MAX_PW_LEN			30
+#define MAX_PW_LEN		30
 #define MAX_DOMAIN_LEN		20
 #define MAX_ALLOWED_DOMAIN	20
 
@@ -52,9 +52,9 @@ int validate_email(char* email) {
 		if (!strcmp(sep, "")) return 0;		// Text not exist after a dot
 		
 		dot = strchr(sep, '.');
-		if (dot != NULL)						is_dot_exist = 1;
+		if (dot != NULL)	is_dot_exist = 1;
 		else if (dot == NULL && !is_dot_exist)	return 0;	// Dot never exists
-		else									break;	// Dot appeared more than once and finished
+		else			break;	// Dot appeared more than once and finished
 		
 		if (sep == dot)		return 0;
 		sep = dot + 1;
@@ -95,7 +95,7 @@ int main()
 				printf("SUCCESS! now you can access HEA system!\n");
 				break;
 			}
-			else						printf("ERROR! invalied password!\n");
+			else				printf("ERROR! invalied password!\n");
 		}
 
 		printf("\nDo you want try again? (y/n) ");
