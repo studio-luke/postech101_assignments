@@ -1,0 +1,5 @@
+20210001	Hong Gildong	84	73
+20210002	Lee Jieun	92	89
+20210007   Kim Cheolsu	57	62
+20210009	Lee Yeonghee	81	84
+20210011   Ha Donghun 	58	68
