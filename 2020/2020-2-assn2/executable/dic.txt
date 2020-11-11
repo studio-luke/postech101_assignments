@@ -1,0 +1,8 @@
+7
+language
+glasses
+balloon
+camera
+football
+puppet
+newspaper
