@@ -1,0 +1,9 @@
+[시간]				출입	이름	전화번호
+[Sun Dec  6 21:47:28 2020]		In	dahyun	01011112222
+[Sun Dec  6 21:47:49 2020]		In	wonho	01033334444
+[Sun Dec  6 21:48:06 2020]		In	ys	01055556666
+[Sun Dec  6 21:49:53 2020]		In	hunho	01076543210
+[Sun Dec  6 21:52:01 2020]		Out	wonho	01033334444
+[Sun Dec  6 21:52:13 2020]		Out	hunho	01076543210
+[Sun Dec  6 21:52:29 2020]		Out	dahyun	01011112222
+[Sun Dec  6 21:52:34 2020]		Out	ys	01055556666
